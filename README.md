@@ -17,7 +17,7 @@ This repository contains a complete workflow for training and evaluating a house
 
 ### 1. **Clone the Repository**  
 ```bash
-git clone <https://github.com/ogshivam/PKL_Gamy>
+git clone <https://github.com/ogshivam/House_Price_Prediction_pkl>
 cd <Desktop/Gamy>
 ```
 
